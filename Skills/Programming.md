@@ -202,38 +202,38 @@
   - Monkey patch
   - Yo-yo problem
 - Runtimes and virtual machines
-    - Bytecode
-    - V8
-    - VJM
-    - CLR
-    - Mono
+  - Bytecode
+  - V8
+  - VJM
+  - CLR
+  - Mono
 - Operating systems
-    - Interrupts
-    - Drivers
-    - Kernel
-    - Ring
-    - Virtual memory
-    - File system
-    - Linux
-    - Unix
-    - BSD
-    - MacOS
-    - Windows
-    - Real-time OS
-    - Embedded OS
+  - Interrupts
+  - Drivers
+  - Kernel
+  - Ring
+  - Virtual memory
+  - File system
+  - Linux
+  - Unix
+  - BSD
+  - MacOS
+  - Windows
+  - Real-time OS
+  - Embedded OS
 - Standards
-    - ASCII
-    - Escape sequence
-    - RFC
-    - IETF
-    - IANA
-    - IEEE
-    - Base64
-    - ECMA
-    - ICANN
-    - ISO
-    - MIME
-    - OWASP
-    - UTF-8
-    - W3C
-    - ODMG
+  - ASCII
+  - Escape sequence
+  - RFC
+  - IETF
+  - IANA
+  - IEEE
+  - Base64
+  - ECMA
+  - ICANN
+  - ISO
+  - MIME
+  - OWASP
+  - UTF-8
+  - W3C
+  - ODMG
