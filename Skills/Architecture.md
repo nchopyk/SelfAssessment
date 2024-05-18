@@ -4,11 +4,11 @@
   - Modularity
   - Components
   - Directories
-  - GRASP
-  - SOLID
-  - GoF patterns
+  - GRASP: 👂 heard
+  - SOLID: 🎓 known
+  - GoF patterns: 👂 heard
   - CQS
-  - Leaking abstractions
+  - Leaking abstractions: 👂 heard
   - Multiparadigm code
   - Contract programming
   - Platform-agnostic
@@ -24,22 +24,22 @@
   - Flexibility
   - Law of Demeter (LoD)
 - Application architecture
-  - Isolation between layer
+  - Isolation between layer: 🎓 known
   - Domain-specific language (DSL)
   - System vs applied code
-  - Multilayer approach
+  - Multilayer approach: 🎓 known
   - Hexagonal architecture
-  - Separation of concerns (SoC)
+  - Separation of concerns (SoC): 🎓 known
   - Metaprogramming
-  - Inversion of control (IoC)
-  - Dependency injection (DI)
-  - Clean architecture
-  - Domain-driven design (DDD)
+  - Inversion of control (IoC): 👂 heard
+  - Dependency injection (DI): 🎓 known
+  - Clean architecture: 🎓 known
+  - Domain-driven design (DDD): 👂 heard
   - Pub/sub
   - Message brocker
   - Agent
   - Service locator
-  - Message Queue (MQ)
+  - Message Queue (MQ): 👂 heard
   - CQRS
   - Event sourcing
   - E-R data modeling
@@ -48,15 +48,15 @@
   - UML
   - Work breakdown structure
   - Budget estimation
-  - Distributed systems
+  - Distributed systems: 👂 heard
   - High-intensive computing
-  - Load balancing
+  - Load balancing: 🎓 known
   - Gateways
   - On-premises
   - IaaS
   - PaaS
   - SaaS
-  - FaaS clouds
+  - FaaS clouds: 👂 heard
   - Serverless
   - Vendor lock-in
   - Bus factor
