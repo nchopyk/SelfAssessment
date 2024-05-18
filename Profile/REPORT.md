@@ -1,13 +1,13 @@
 ## Software engineering self assessment
 
-[![Skills](https://img.shields.io/badge/Self_Assessment-388&nbsp;/&nbsp;624&nbsp;/&nbsp;698-FF3300?style=flat-square)](https://github.com/nchopyk/SelfAssessment/blob/main/Profile/REPORT.md)
+[![Skills](https://img.shields.io/badge/Self_Assessment-388&nbsp;/&nbsp;624&nbsp;/&nbsp;731-009933?style=flat-square)](https://github.com/nchopyk/SelfAssessment/blob/main/Profile/REPORT.md)
 
 ```
-[![Skills](https://img.shields.io/badge/Self_Assessment-388&nbsp;/&nbsp;624&nbsp;/&nbsp;698-FF3300?style=flat-square)](https://github.com/nchopyk/SelfAssessment/blob/main/Profile/REPORT.md)
+[![Skills](https://img.shields.io/badge/Self_Assessment-388&nbsp;/&nbsp;624&nbsp;/&nbsp;731-009933?style=flat-square)](https://github.com/nchopyk/SelfAssessment/blob/main/Profile/REPORT.md)
 ```
 
 ```
-<a href="https://github.com/nchopyk/SelfAssessment/blob/main/Profile/REPORT.md"><img alt="Skills" src="https://img.shields.io/badge/Self_Assessment-388&nbsp;/&nbsp;624&nbsp;/&nbsp;698-FF3300?style=flat-square"></a>
+<a href="https://github.com/nchopyk/SelfAssessment/blob/main/Profile/REPORT.md"><img alt="Skills" src="https://img.shields.io/badge/Self_Assessment-388&nbsp;/&nbsp;624&nbsp;/&nbsp;731-009933?style=flat-square"></a>
 ```
 
 ## Assessment totals
@@ -23,9 +23,9 @@
 | &nbsp;&nbsp;&nbsp;&nbsp; Networking | `0` | `9` |
 | &nbsp;&nbsp;&nbsp;&nbsp; Process and tools | `12` | `28` |
 | &nbsp;&nbsp;&nbsp;&nbsp; Antipatterns | `7` | `30` |
-| &nbsp;&nbsp;&nbsp;&nbsp; Runtimes and virtual machines | `0` | `0` |
-| &nbsp;&nbsp;&nbsp;&nbsp; Operating systems | `0` | `0` |
-| &nbsp;&nbsp;&nbsp;&nbsp; Standards | `0` | `0` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Runtimes and virtual machines | `0` | `5` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Operating systems | `0` | `13` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Standards | `0` | `15` |
 | [JavaScript](/Skills/JavaScript.md) | | |
 | &nbsp;&nbsp;&nbsp;&nbsp; Language | `37` | `57` |
 | &nbsp;&nbsp;&nbsp;&nbsp; Statements | `18` | `19` |
