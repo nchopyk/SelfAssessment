@@ -4,7 +4,7 @@
   - Procedural programming: 🎓 known
   - Imperative programming: 🎓 known
   - Structured programming: 🎓 known
-  - Non-structured programming: 
+  - Non-structured programming
   - Functional programming: 🎓 known
   - Prototype-based programming: 🎓 known
   - Object-oriented programming: 🎓 known
@@ -14,12 +14,12 @@
   - Asynchronous programming: 🖐️ used
   - Parallel programming: 🎓 known
   - Reactive programming: 🎓 known
-  - Functional-reactive (FRP):
-  - Automata-based programming:
-  - Domain-specific languages:
+  - Functional-reactive (FRP)
+  - Automata-based programming
+  - Domain-specific languages
   - Multi-paradigm programming: 🎓 known
-  - Metaprogramming:
-  - Actor model:
+  - Metaprogramming
+  - Actor model
   - Lambda calculus
   - Black box
   - Information hiding
@@ -43,10 +43,10 @@
   - Interface: 🙋 explained
   - Encapsulation: 🙋 explained
   - Hidden class: 👂 heard
-  - Object form:
+  - Object form
   - Instance: 🙋 explained
-  - Introspection:
-  - Reflection:
+  - Introspection
+  - Reflection
   - The diamond problem
 - GRASP
   - Information expert
@@ -83,8 +83,8 @@
   - Decorator: 🎓 known
   - Flyweight: 👂 heard
   - Mediator: 👂 heard
-  - Memento:
-  - Template Method:
+  - Memento
+  - Template Method
   - Visitor: 👂 heard
   - Reactor
   - Active object

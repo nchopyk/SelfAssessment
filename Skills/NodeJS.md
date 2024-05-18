@@ -19,36 +19,36 @@
   - Contexts and scripts module `node:vm`: 👂 heard
   - Dependencies: `npm`, `node_modules`: 🎓 known
   - Files `package.json`, `package-lock.json`: 🎓 known
-  - Module-based permissions model:
+  - Module-based permissions model
   - Isolation with modularity: 👂 heard
   - Dependency injection: 🎓 known
-  - DI containers:
+  - DI containers
   - Coupling and cohesion: 🖐️ used
   - Framework agnostic approach: 🎓 known
 - Environment
   - Command line arguments: 🎓 known
   - Node.js CLI: 👂 heard
-  - Process-based permissions:
+  - Process-based permissions
   - Graceful shutdown: 🖐️ used
   - Clustering: 👂 heard
   - Watch filesystem changes with --watch: 🖐️ used
 - Internal API
   - Streams API: 🖐️ used
-  - Web Streams API:
+  - Web Streams API
   - Crypto API: 👂 heard
-  - Password hashing with crypto.scrypt:
-  - Web Crypto API:
+  - Password hashing with crypto.scrypt
+  - Web Crypto API
   - File system API (sync and async): 🎓 known
   - Copy folder recursively: 👂 heard
   - Worker threads: 👂 heard
   - Performance hooks: 👂 heard
   - Native fetch and nodejs/undici: 🖐️ used
-  - async_hooks:
+  - async_hooks
   - AsyncLocalStorage: 👂 heard
-  - AsyncResource:
-  - Deprecated domain API:
+  - AsyncResource
+  - Deprecated domain API
   - Node.js single executable: 👂 heard
-  - SharedArrayBuffer:
+  - SharedArrayBuffer
   - Module `node:worker_threads`: 👂 heard
   - Module `node:child_process`: 👂 heard
   - MessageChannel, MessagePort: 👂 heard
@@ -56,24 +56,24 @@
   - Generating crypto random UUID: 🖐️ used
   - Module `node:url` vs `new URL`: 🎓 known
   - Module `node:assert`: 🖐️ used
-  - Internationalization:
+  - Internationalization
   - Blob, File, Buffer, module `node:buffer`: 👂 heard
   - Module `node:zlib`: 👂 heard
 - Network
   - Endpoint throttling: 👂 heard
   - ALPN
-  - SNI callback:
+  - SNI callback
   - SSL certificates: 👂 heard
   - Protocol agnostic approach: 👂 heard
   - Fetch API: 🎓 known
-  - IncomingMessage:
+  - IncomingMessage
   - HTTP(S): 🎓 known
   - TCP/SSL: 🎓 known
   - UDP: 🎓 known
   - TLS: 👂 heard
   - Websocket: 🎓 known
-  - SSE:
-  - HTTP/3 (QUIC):
+  - SSE
+  - HTTP/3 (QUIC)
   - Long polling: 🎓 known
   - REST: 🎓 known
   - RPC: 👂 heard
@@ -85,11 +85,11 @@
   - CSRF: 👂 heard
   - DNS: 🎓 known
   - SQL injection: 🎓 known
-  - noDelay:
+  - noDelay
   - keep-alive: 👂 heard
   - IP sticky sessions: 👂 heard
 - Technique and tools
-  - Native test runner:
+  - Native test runner
   - Logging: 🎓 known
   - Application configuring: 🎓 known
   - Testing: 🎓 known
@@ -104,7 +104,7 @@
 - Data access
   - Data access layer: 🎓 known
   - Repository: 🎓 known
-  - Active record:
+  - Active record
   - Query builder: 🖐️ used
   - Object-Relational Mapping: 🎓 known
   - CRUD
@@ -116,7 +116,7 @@
   - `error.message`: 🎓 known
   - `error.stack`: 🎓 known
   - `Error.captureStackTrace`: 🎓 known
-  - How to avoid mixins:
+  - How to avoid mixins
   - Uncaught exceptions: 🎓 known
   - Heap dump: 🎓 known
   - Debugging tools: 🎓 known
@@ -125,19 +125,19 @@
   - Resource leaks: 🎓 known
   - Data race: 🎓 known
 - Integrations and bindings
-  - Native addons:
-  - `C` and `C++` addons:
-  - `Rust` addons:
-  - `Zig` addons:
-  - NAN (Native Abstractions for Node.js):
-  - Node-API (formerly N-API):
-  - NAPI `C` and `C++`:
-  - NAPI `Rust`:
-  - NAPI `Zig`:
-  - Webassembly `WAT`:
-  - Webassembly `C` and `C++`:
-  - Webassembly `Rust`:
-  - Webassembly `Zig`:
-  - Webassembly `AssemblyScript`:
-  - Shared memory:
-  - V8 binary serialization:
+  - Native addons
+  - `C` and `C++` addons
+  - `Rust` addons
+  - `Zig` addons
+  - NAN (Native Abstractions for Node.js)
+  - Node-API (formerly N-API)
+  - NAPI `C` and `C++`
+  - NAPI `Rust`
+  - NAPI `Zig`
+  - Webassembly `WAT`
+  - Webassembly `C` and `C++`
+  - Webassembly `Rust`
+  - Webassembly `Zig`
+  - Webassembly `AssemblyScript`
+  - Shared memory
+  - V8 binary serialization

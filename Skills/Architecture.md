@@ -56,7 +56,7 @@
   - IaaS
   - PaaS
   - SaaS
-  - FaaS clouds:👂 heard
+  - FaaS clouds: 👂 heard
   - Serverless
   - Vendor lock-in
   - Bus factor

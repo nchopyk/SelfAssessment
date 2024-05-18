@@ -88,7 +88,7 @@
   - Lambda expression: 🎓 known
   - Side effects: 🎓 known
   - Closure: 🎓 known
-  - Partial application:
+  - Partial application
   - Currying: 👂 heard
   - Higher order: 🎓 known
   - Recursion: 🙋 explained
@@ -99,11 +99,11 @@
   - Pipe: 🖐️ used
   - Memoize: 🖐️ used
   - Wrapper: 🎓 known
-  - Functor: 
-  - Monad:
-  - Monoid:
+  - Functor
+  - Monad
+  - Monoid
   - Generator: 🎓 known
-  - Coroutine: 
+  - Coroutine
 - Data structures
   - Array: 🙋 explained
   - Structure: 👂 heard
@@ -182,7 +182,7 @@
   - Silver bullet: 🎓 known
   - Not invented here: 👂 heard
   - Dead code: 🎓 known
-  - Unreachable code:  🎓 known
+  - Unreachable code: 🎓 known
   - Duplicate code: 🎓 known
   - Premature optimization
   - Micro-optimization

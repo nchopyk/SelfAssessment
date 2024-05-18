@@ -27,7 +27,7 @@
   - IIFE: 🖐️ used
   - Async IIFE: 🖐️ used
   - `global`: 🎓 known
-  - `globalThis`:
+  - `globalThis`
   - `window`: 🎓 known
   - Getters and setters: 🙋 explained
   - `__proto__`: 🎓 known
@@ -76,7 +76,7 @@
   - `switch`: 🙋 explained
   - `class`: 🙋 explained
   - `extends`: 🎓 known
-  - `with`:
+  - `with`
   - `new`: 🙋 explained
 - Functions
   - Arrow function: 🙋 explained
@@ -99,7 +99,7 @@
   - Mixins: 👂 heard
   - `Object.assign`
 - Standard classes and namespaces
-  - `Proxy`: 
+  - `Proxy`
   - `RegExp`: 🎓 known
   - `Date`: 🙋 explained
   - `Math`

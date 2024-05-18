@@ -6,12 +6,12 @@
   - Non-blocking: 🙋 explained
   - Async I/O: 🎓 known
   - Thread pool: 🎓 known
-  - Pattern Reactor:
-  - CAS operations:
+  - Pattern Reactor
+  - CAS operations
   - epoll: 👂 heard
-  - kqueue:
-  - Completion ports:
-  - Event ports:
+  - kqueue
+  - Completion ports
+  - Event ports
   - libuv: 🎓 known
   - Race conditions: 🎓 known
   - Dead locks: 👂 heard
@@ -28,18 +28,18 @@
   - Promise: 🙋 explained
   - Async/await: 🙋 explained
   - Future: 👂 heard
-  - Deferred:
-  - Sync generator:
+  - Deferred
+  - Sync generator
   - Async Generator: 👂 heard
   - Async Iterator: 👂 heard
   - Event: 🎓 known
-  - Coroutine:
-  - Goroutine:
+  - Coroutine
+  - Goroutine
   - Signal: 👂 heard
   - Stream: 🎓 known
-  - Chain of responsibility:
+  - Chain of responsibility
   - Middleware: 🎓 known
-  - Locks:
+  - Locks
 - Async adapters and utils
   - callbackify: 👂 heard
   - promisify: 🎓 known
@@ -47,7 +47,7 @@
   - Callbacks compose: 👂 heard
   - Async compose: 👂 heard
 - Async abstractions interfaces
-  - EventEmitter 🎓 known
+  - EventEmitter: 🎓 known
   - Observable/Observer: 👂 heard
   - Readable: 🎓 known
   - Writable: 🎓 known
@@ -57,7 +57,7 @@
   - Async Collector: 👂 heard
   - Semaphore: 👂 heard
   - Mutex: 👂 heard
-  - Spin Lock:
+  - Spin Lock
 - JavaScript & Node.js specific
   - Timers: 🖐️ used
   - `setImmediate`: 🎓 known
@@ -65,15 +65,15 @@
   - AbortController: 🖐️ used
   - AbortSignal: 👂 heard
   - Promise unhandled rejection: 🎓 known
-  - Promise double resolve:
-  - Atomics:
-  - High resolution clock:
+  - Promise double resolve
+  - Atomics
+  - High resolution clock
   - Callback hell: 🎓 known
   - Promise hell: 🎓 known
   - ref() and unref(): 👂 heard
   - Error handling in async code: 🙋 explained
   - Better stack traces with return await: 🎓 known
-  - JSON streaming serialization:
+  - JSON streaming serialization
   - AsyncLocalStorage: 👂 heard
   - AsyncResource: 👂 heard
 - Techniques
@@ -83,7 +83,7 @@
   - Promise.allSettled: 👂 heard
   - Promise.race: 🙋 explained
   - Promise.any: 🙋 explained
-  - Web Locks API:
+  - Web Locks API
   - IPC: 👂 heard
-  - Channel API:
-  - Revealing constructor:
+  - Channel API
+  - Revealing constructor
