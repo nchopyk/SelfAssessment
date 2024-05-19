@@ -7,7 +7,7 @@
   - Non-structured programming
   - Functional programming: 🎓 known
   - Prototype-based programming: 🎓 known
-  - Object-oriented programming: 🎓 known
+  - Object-oriented programming: 🖐️ used
   - Object-based programming: 👂 heard
   - Generic programming: 👂 heard
   - Concurrent computing: 🎓 known
@@ -16,16 +16,16 @@
   - Reactive programming: 🎓 known
   - Functional-reactive (FRP)
   - Automata-based programming
-  - Domain-specific languages
+  - Domain-specific languages: 👂 heard
   - Multi-paradigm programming: 🎓 known
   - Metaprogramming
   - Actor model
-  - Lambda calculus
-  - Black box
+  - Lambda calculus: 🎓 known
+  - Black box: 👂 heard
   - Information hiding
   - Aspect-oriented programming
   - Anemic domain model
-  - Class composition
+  - Class composition: 🖐️ used
 - OOP basics
   - Constructor: 🙋 explained
   - Operator `new`: 🙋 explained
@@ -53,16 +53,16 @@
   - Creator
   - Controller
   - Indirection
-  - Low coupling
-  - High cohesion
-  - Protected variations
+  - Low coupling: 👂 heard
+  - High cohesion: 👂 heard
+  - Protected variations: 👂 heard
   - Pure fabrication
 - SOLID
-  - Single-responsibility principle (SRP)
-  - Open–closed principle (OCP)
-  - Liskov substitution principle (LSP)
-  - Interface segregation principle (ISP)
-  - Dependency inversion principle (DIP)
+  - Single-responsibility principle (SRP): 🎓 known
+  - Open–closed principle (OCP): 🎓 known
+  - Liskov substitution principle (LSP): 🎓 known
+  - Interface segregation principle (ISP): 🎓 known
+  - Dependency inversion principle (DIP): 🎓 known
 - Patterns
   - Singleton: 🎓 known
   - Factory Method: 🎓 known
@@ -86,6 +86,6 @@
   - Memento
   - Template Method
   - Visitor: 👂 heard
-  - Reactor
+  - Reactor: 👂 heard
   - Active object
   - Delegation

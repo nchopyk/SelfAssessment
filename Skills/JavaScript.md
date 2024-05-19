@@ -3,13 +3,13 @@
 - Language
   - `Object`: 🙋 explained
   - `Function`: 🙋 explained
-  - `Boolean`
-  - `Number`
+  - `Boolean`: 🙋 explained
+  - `Number`: 🙋 explained
   - `BigInt`: 🙋 explained
-  - `String`
-  - `Symbol`: 👂 heard
-  - `Infinity`
-  - `NaN`
+  - `String`: 🙋 explained
+  - `Symbol`: 🎓 known
+  - `Infinity`: 🙋 explained
+  - `NaN`: 🙋 explained
   - `undefined`: 🙋 explained
   - `null`: 🙋 explained
   - `this`: 🙋 explained
@@ -26,38 +26,38 @@
   - Optional chaining: 🖐️ used
   - IIFE: 🖐️ used
   - Async IIFE: 🖐️ used
-  - `global`: 🎓 known
+  - `global`: 🖐️ used
   - `globalThis`
-  - `window`: 🎓 known
+  - `window`: 🖐️ used
   - Getters and setters: 🙋 explained
   - `__proto__`: 🎓 known
   - `prototype`: 🎓 known
   - Equality operators: 🙋 explained
   - Logical operators: 🙋 explained
-  - Logical Assignment
+  - Logical Assignment: 🙋 explained
   - Bitwise operators: 🖐️ used
   - Ternary operator: 🙋 explained
-  - `void`: 🎓 known
+  - `void`: 🙋 explained
   - `yield`: 🎓 known
   - `await`: 🙋 explained
   - Template literal: 🙋 explained
   - Strict mode: 🎓 known
-  - Hoisting
+  - Hoisting: 👂 heard
   - `delete`: 🙋 explained
   - `in`: 🙋 explained
   - `super`: 🙋 explained
-  - `eval`
-  - `static`
-  - `Number.parseInt`
-  - `Number.parseFloat`
-  - Property descriptors
-  - Sealing properties
-  - Freezing properties
-  - Computed properties
-  - Instance class fields
-  - Static class fields
-  - Private class fields
-  - Private class methods
+  - `eval`: 🎓 known
+  - `static`: 🙋 explained
+  - `Number.parseInt`: 🙋 explained
+  - `Number.parseFloat`: 🙋 explained
+  - Property descriptors: 👂 heard
+  - Sealing properties: 👂 heard
+  - Freezing properties: 👂 heard
+  - Computed properties: 👂 heard
+  - Instance class fields: 🎓 known
+  - Static class fields: 🎓 known
+  - Private class fields: 🎓 known
+  - Private class methods: 🎓 known
 - Statements
   - `if`: 🙋 explained
   - `while`: 🙋 explained
@@ -75,8 +75,8 @@
   - `try..catch`: 🙋 explained
   - `switch`: 🙋 explained
   - `class`: 🙋 explained
-  - `extends`: 🎓 known
-  - `with`
+  - `extends`: 🙋 explained
+  - `with`: 👂 heard
   - `new`: 🙋 explained
 - Functions
   - Arrow function: 🙋 explained
@@ -84,35 +84,35 @@
   - Function declaration: 🙋 explained
   - Function expression: 🙋 explained
   - Default parameters: 🙋 explained
-  - Functional object: 👂 heard
+  - Functional object: 🎓 known
   - `Function.prototype.call`: 🙋 explained
   - `Function.prototype.bind`: 🙋 explained
-  - `Function.prototype.apply`: 🎓 known
+  - `Function.prototype.apply`:e
   - `return`: 🙋 explained
 - Data structures
   - `Array`: 🙋 explained
   - `Map`: 🎓 known
   - `Set`: 🙋 explained
-  - `WeakMap`
-  - `WeakSet`
+  - `WeakMap`: 👂 heard
+  - `WeakSet`: 👂 heard
   - Typed arrays: 👂 heard
-  - Mixins: 👂 heard
-  - `Object.assign`
+  - Mixins
+  - `Object.assign`: 🖐️ used
 - Standard classes and namespaces
   - `Proxy`
-  - `RegExp`: 🎓 known
+  - `RegExp`: 🖐️ used
   - `Date`: 🙋 explained
-  - `Math`
+  - `Math`: 🙋 explained
   - `Reflect`
-  - `Error`
+  - `Error`: 🙋 explained
   - `Atomics`
-  - `JSON`
+  - `JSON`: 🙋 explained
   - `WeakRef`
   - `FinalizationRegistry`
-  - `Intl`
-  - `Promise`
-  - `console`
-  - Timers: 🎓 known
+  - `Intl`: 👂 heard
+  - `Promise`: 🙋 explained
+  - `console`: 🙋 explained
+  - Timers: 🙋 explained
 - Infrastructure
   - V8: 🙋 explained
   - Node.js: 🙋 explained
