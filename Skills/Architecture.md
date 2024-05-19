@@ -1,100 +1,100 @@
 ## Architecture
 
 - Application structure
-  - Modularity
-  - Components
-  - Directories
-  - GRASP: 👂 heard
-  - SOLID: 🎓 known
-  - GoF patterns: 👂 heard
-  - CQS
-  - Leaking abstractions: 👂 heard
-  - Multiparadigm code
-  - Contract programming
-  - Platform-agnostic
-  - Transport-agnostic
-  - Framework-agnostic
-  - Code coverage
-  - Cohesion
-  - Coupling
+  - Modularity: e
+  - Components: u
+  - Directories: e
+  - GRASP: h
+  - SOLID: k
+  - GoF patterns: e
+  - CQS: h
+  - Leaking abstractions: k
+  - Multiparadigm code: e
+  - Contract programming: h
+  - Platform-agnostic: u
+  - Transport-agnostic: u
+  - Framework-agnostic: u
+  - Code coverage: k
+  - Cohesion: k
+  - Coupling: k
   - Cyclomatic complexity
-  - Reliability
-  - Quality
-  - Availability
-  - Flexibility
-  - Law of Demeter (LoD)
+  - Reliability: e
+  - Quality: e
+  - Availability: e
+  - Flexibility: e
+  - Law of Demeter (LoD): h
 - Application architecture
-  - Isolation between layer: 🎓 known
-  - Domain-specific language (DSL)
-  - System vs applied code
-  - Multilayer approach: 🎓 known
-  - Hexagonal architecture
-  - Separation of concerns (SoC): 🎓 known
+  - Isolation between layer: k
+  - Domain-specific language (DSL): k
+  - System vs applied code: e
+  - Multilayer approach: e
+  - Hexagonal architecture: h
+  - Separation of concerns (SoC): e
   - Metaprogramming
-  - Inversion of control (IoC): 👂 heard
-  - Dependency injection (DI): 🎓 known
-  - Clean architecture: 🎓 known
-  - Domain-driven design (DDD): 👂 heard
-  - Pub/sub
-  - Message brocker
+  - Inversion of control (IoC): k
+  - Dependency injection (DI): k
+  - Clean architecture: e
+  - Domain-driven design (DDD): k
+  - Pub/sub: u
+  - Message brocker: u
   - Agent
   - Service locator
-  - Message Queue (MQ): 👂 heard
+  - Message Queue (MQ): k
   - CQRS
-  - Event sourcing
-  - E-R data modeling
-  - Entity-relationship diagram
+  - Event sourcing: h
+  - E-R data modeling: u
+  - Entity-relationship diagram: u
   - IDEF1X
-  - UML
-  - Work breakdown structure
-  - Budget estimation
-  - Distributed systems: 👂 heard
-  - High-intensive computing
-  - Load balancing: 🎓 known
-  - Gateways
-  - On-premises
-  - IaaS
-  - PaaS
-  - SaaS
-  - FaaS clouds: 👂 heard
-  - Serverless
-  - Vendor lock-in
-  - Bus factor
+  - UML: u
+  - Work breakdown structure: h
+  - Budget estimation: e
+  - Distributed systems: k
+  - High-intensive computing: e
+  - Load balancing: e
+  - Gateways: e
+  - On-premises: h
+  - IaaS: k
+  - PaaS: k
+  - SaaS: k
+  - FaaS clouds: k
+  - Serverless: e
+  - Vendor lock-in: k
+  - Bus factor: k
 - Solution architecture
-  - A software requirements specification (SRS)
-  - Solution visions
-  - Solution capabilities
-  - System design
-  - Process modelling
-  - Data modelling
-  - Solution components
-  - Risk assessment
-  - Non Functional Requirements (NFR)
-  - Clouds
-  - BPMN
-  - Low-code
-  - No-code
-  - Metric
-  - Metric abuse
-  - ACID
-  - CAP theorem
-  - Single source of truth (SSOT)
+  - A software requirements specification (SRS): k
+  - Solution visions: k
+  - Solution capabilities: h
+  - System design: u
+  - Process modelling: u
+  - Data modelling: u
+  - Solution components: u
+  - Risk assessment: e
+  - Non Functional Requirements (NFR): u
+  - Clouds: u
+  - BPMN: h
+  - Low-code: h
+  - No-code: h
+  - Metric: e
+  - Metric abuse: h
+  - ACID: e
+  - CAP theorem: h
+  - Single source of truth (SSOT): e
 - Enterprise architecture
-  - Understanding business needs
-  - Enterprise strategy
-  - Integration with subsystems
-  - Enterprise vision
-  - Enterprise capabilities
-  - Project scope
-  - Enterprise service bus
-  - Service-oriented architecture
-  - Microservices
-  - Process choreography
-  - Service orchestration
-  - Data warehouse
-  - Business Intelligence
-  - OLAP
-  - OLTP
-  - Conways Law
-  - Quality assurance
-  - Engineering Hygiene
+  - Understanding business needs: e
+  - Enterprise strategy: e
+  - Integration with subsystems: e
+  - Enterprise vision: k
+  - Enterprise capabilities: k
+  - Project scope: e
+  - Enterprise service bus: h
+  - Service-oriented architecture: k
+  - Microservices: k
+  - Process choreography: k
+  - Service orchestration: k
+  - Data warehouse: h
+  - Business Intelligence: h
+  - OLAP: h
+  - OLTP: k
+  - Conways Law: h
+  - Quality assurance: e
+  - Engineering Hygiene: k
